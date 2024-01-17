@@ -1,0 +1,19 @@
+{
+  "name": "time_calculous_for_npm",
+  "version": "1.0.0",
+  "description": "NPM module to make all calculations on time and dates...",
+  "main": "time_calculous_for_npm.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicken-Ghoubiguian/time_calculous_for_npm.git"
+  },
+  "author": "wicken",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Vicken-Ghoubiguian/time_calculous_for_npm/issues"
+  },
+  "homepage": "https://github.com/Vicken-Ghoubiguian/time_calculous_for_npm#readme"
+}
