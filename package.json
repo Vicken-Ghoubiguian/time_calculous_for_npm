@@ -1,8 +1,9 @@
 {
-  "name": "time_calculous_for_npm",
+  "name": "@wicken/time_calculous_for_npm",
   "version": "1.0.0",
   "description": "NPM module to make all calculations on time and dates...",
   "main": "time_calculous_for_npm.js",
+  "keywords": [],
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
