@@ -12,7 +12,13 @@ function calculations_on_date_and_time() {
 }
 
 //
+function diffs_on_date_and_time() {
+
+}
+
+//
 module.exports = {
 	'calculations_on_date_and_time': calculations_on_date_and_time,
-	'wished_wday_in_choosen_month': wished_wday_in_choosen_month
+	'wished_wday_in_choosen_month': wished_wday_in_choosen_month,
+	'diffs_on_date_and_time': diffs_on_date_and_time
 }
