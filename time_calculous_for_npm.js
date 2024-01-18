@@ -14,6 +14,7 @@ function calculations_on_date_and_time() {
 //
 function diffs_on_date_and_time() {
 
+	console.log("diffs_on_date_and_time coming soon...");
 }
 
 //
