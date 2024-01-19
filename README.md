@@ -41,7 +41,7 @@ whatever you like.
 In the newly created file ```index.js```, it is now time to import the 
 module ```time_calculous_for_npm```. To do this, copy then paste the 
 following line into the file ```index.js```:
-```bash
+```js
 var time_calculous_for_npm = require('./time_calculous_for_npm');
 ```
 Now it's your turn to have fun. So...Get ready, get set and code.
