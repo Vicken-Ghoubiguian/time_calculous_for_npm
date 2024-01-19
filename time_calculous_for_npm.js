@@ -10,7 +10,18 @@ const Numeral = Object.freeze({
 
 //
 function wished_wday_in_choosen_month(year, month, wday, hour, minute, 
-second, num : Numeral) {
+second, num) {
+
+	//
+	var i = 0;
+	var condition = 0;
+	var today = Date.now();
+
+	//
+	var dt_as_date;
+	var dt_as_timestamp;
+
+	
 
 	console.log("wished_wday_in_choosen_month coming soon...");
 }
