@@ -1,4 +1,14 @@
 //
+const Numeral = Object.freeze({
+
+	FIRST: 0,
+	SECOND: 1,
+	THIRD: 2,
+	BEFORE_LAST: 3,
+	LAST: 4
+});
+
+//
 function wished_wday_in_choosen_month(year, month, wday, hour, minute, 
 second) {
 
@@ -19,6 +29,7 @@ function diffs_on_date_and_time() {
 
 //
 module.exports = {
+	'Numeral': Numeral,
 	'calculations_on_date_and_time': calculations_on_date_and_time,
 	'wished_wday_in_choosen_month': wished_wday_in_choosen_month,
 	'diffs_on_date_and_time': diffs_on_date_and_time
