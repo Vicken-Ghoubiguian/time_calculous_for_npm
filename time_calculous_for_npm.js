@@ -10,7 +10,7 @@ const Numeral = Object.freeze({
 
 //
 function wished_wday_in_choosen_month(year, month, wday, hour, minute, 
-second) {
+second, num : Numeral) {
 
 	console.log("wished_wday_in_choosen_month coming soon...");
 }
