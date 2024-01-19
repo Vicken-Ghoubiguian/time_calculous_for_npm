@@ -27,7 +27,11 @@ second, num) {
 }
 
 //
-function calculations_on_date_and_time() {
+function calculations_on_date_and_time(date, decades, years, months, 
+weeks, days, hours, minutes, seconds) {
+
+	var nodejsdate_timestamp;
+	var date_calculation;
 
 	console.log("calculations_on_date_and_time coming soon...");
 }
